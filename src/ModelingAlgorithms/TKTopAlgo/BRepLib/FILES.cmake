@@ -38,6 +38,8 @@ set(OCCT_BRepLib_FILES
   BRepLib_PointCloudShape.cxx
   BRepLib_ShapeModification.hxx
   BRepLib_ShellError.hxx
+  BRepLib_SimplifyShape.cxx
+  BRepLib_SimplifyShape.hxx
   BRepLib_ToolTriangulatedShape.hxx
   BRepLib_ToolTriangulatedShape.cxx
   BRepLib_ValidateEdge.cxx
